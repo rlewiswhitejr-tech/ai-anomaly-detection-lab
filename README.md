@@ -33,5 +33,3 @@ This lab demonstrates:
 - Python automation
 - Security reporting
 
-## Resume Bullet
-Built an AI-powered SOC anomaly detection lab using Python, pandas, and Isolation Forest to identify suspicious authentication behavior, generate risk scores, and create security reports for brute-force attack analysis.
